@@ -7,9 +7,9 @@ Beyond a learning hub, Anaconda Nucleus is a place to encourage connection!
 Please enjoy a game of snake while 
 you wait the download... 
 
+```
 [click here](https://anaconda.cloud/getting-started-with-anaconda)
 
-```
 You're more then welcome to visit my Web Pages: 
 
  🧐[Jungletronics](https://medium.com/jungletronics) (Arduino, RPi, PIC, Eagle, Blender, Unity3D, Pixy, and more) 
