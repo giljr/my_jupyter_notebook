@@ -46,7 +46,7 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 ### Project - Pure Python Episodes List (from 2021 until now) :ant:
 
-[#00](PPY_00/) #PurePythonSeries - [**Lambda in Python - Python Lambda Desmistification**](https://medium.com/jungletronics/lambda-in-python-421b0c18e825) — dDemystifing Lambda in Python 👏
+[#00](PPY_00/) #PurePythonSeries - [**Lambda in Python - Python Lambda Desmistification**](https://medium.com/jungletronics/lambda-in-python-421b0c18e825) — Demystifing Lambda in Python 👏
 
 [#01](PPY_01/) #PurePythonSeries - [**Send Emails Using Python — Jupyter Notebook - How To Send Gmail In Python**](https://medium.com/jungletronics/send-emails-using-python-jupyter-notebook-94d14a5a5655) — How To Send Email eas·i·ly!🤔 
 
