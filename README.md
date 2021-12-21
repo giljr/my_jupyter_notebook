@@ -1,7 +1,10 @@
-## My Jupiter Notebook Archieve
+## My Jupyter Notebook Archieve
 Hi, this is all about Jupiter From [Anaconda!](https://anaconda.cloud/) 👌
+
 Anaconda Nucleus is a place where you can learn and share within the community. 
+
 Right now, members can gain expert insights through guided walk-throughs, videos, webinars, and content from partners, like Data Society. ... 
+
 Beyond a learning hub, Anaconda Nucleus is a place to encourage connection!
 ```
 Please enjoy a game of snake while 
