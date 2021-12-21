@@ -46,15 +46,15 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 ### Project - Pure Python Episodes List (from 2021 until now) :ant:
 
-[#00](PPY_00/) #PurePythonSeries - [**Lambda in Python - Python Lambda Desmistification **](https://medium.com/jungletronics/lambda-in-python-421b0c18e825) — dDemystifing Lambda in Python 👏
+[#00](PPY_00/) #PurePythonSeries - [**Lambda in Python - Python Lambda Desmistification**](https://medium.com/jungletronics/lambda-in-python-421b0c18e825) — dDemystifing Lambda in Python 👏
 
-[#01](PPY_01/) #PurePythonSeries - [**Send Emails Using Python — Jupyter Notebook - How To Send Gmail In Python**](https://medium.com/jungletronics/send-emails-using-python-jupyter-notebook-94d14a5a5655) — How To Send Email eas·i·ly! 
+[#01](PPY_01/) #PurePythonSeries - [**Send Emails Using Python — Jupyter Notebook - How To Send Gmail In Python**](https://medium.com/jungletronics/send-emails-using-python-jupyter-notebook-94d14a5a5655) — How To Send Email eas·i·ly!🤔 
 
-[#02](PPY_02/) #PurePythonSeries - [**Automate Your Email Marketing With Python - How To Create An Email Trigger System in Python**](https://medium.com/jungletronics/automate-your-email-marketing-with-python-f0d68234b789) — Does Python integrate with Outlook?
+[#02](PPY_02/) #PurePythonSeries - [**Automate Your Email Marketing With Python - How To Create An Email Trigger System in Python**](https://medium.com/jungletronics/automate-your-email-marketing-with-python-f0d68234b789) — Does Python integrate with Outlook?🐱‍🏍
 
 [#03](PPY_03/) #PurePythonSeries - [**Manipulating Files With Python - Manage Your Lovely Photos With Python!**](https://medium.com/jungletronics/manipulating-files-with-python-3f9a781287e9) — How To Creating a File, Removing a Directory, etc 👌
 
-[#04](PPY_04/) #PurePythonSeries - [**Pandas DataFrame Advanced - A Complete Notebook Review**](https://medium.com/jungletronics/pandas-dataframe-advanced-48f83a5b097f) — 💕All About Pandas!💕
+[#04](PPY_04/) #PurePythonSeries - [**Pandas DataFrame Advanced - A Complete Notebook Review**](https://medium.com/jungletronics/pandas-dataframe-advanced-48f83a5b097f) — All About Pandas!💕
 
 [#05](PPY_05/) #PurePythonSeries - [**Is This Leap Year? Python Calendar - How To Calculate If The Year Is Leap Year and How Many Days Are In The Month**](https://medium.com/jungletronics/is-this-leap-year-python-calendar-3d1a61f2c4a7) — Leap What? Check it Out 👀
 
@@ -62,7 +62,8 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#07](PPY_07/) #PurePythonSeries - [**Graphs — In Python - Extremely Simple Algorithms in Python**](https://medium.com/jungletronics/graphs-in-python-b7d243737b77) — Connecting edges and arcs...🏹
 
-[#08](PPY_08/) #PurePythonSeries - [**Decorator in Python - How To Simplifying Your Code And Boost Your Function **](https://medium.com/jungletronics/decorator-in-python-62c00f7e818) — Boost your Code: use decorator!💎
+[#08](PPY_08/) #PurePythonSeries - [**Decorator in Python - How To Simplifying Your Code And Boost Your Function**](https://medium.com/jungletronics/decorator-in-python-62c00f7e818) — Boost your Code: use decorator!💎
+
 
 ### License
 
