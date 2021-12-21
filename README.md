@@ -1,4 +1,4 @@
-## My Jupyter Notebook Archieve
+## My Jupyter Notebook Archieve - Pure Python Project
 Hi, this is all about Jupiter From [Anaconda!](https://anaconda.cloud/) 👌
 
 Anaconda Nucleus is a place where you can learn and share within the community. 
