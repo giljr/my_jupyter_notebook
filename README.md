@@ -68,6 +68,8 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#10](PPY_10/) #PurePythonSeries - [**Marios Bros Harvard CS50 Challenge in Python!**](https://medium.com/jungletronics/cs50-a-taste-of-python-a4ac87883ff4) — CS50 In Python - from Harvard University!🔺
 
+[#11](PPY_11/) #PurePythonSeries - [**Python - Send Email Using SMTP!**](https://medium.com/jungletronics/python-send-email-using-smtp-6ecf0b1dd608) — Send Mail To Any Internet Machine (SMTP or ESMTP) 📧
+
 ### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
