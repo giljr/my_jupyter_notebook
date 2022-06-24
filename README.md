@@ -64,9 +64,9 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#08](PPY_08/) #PurePythonSeries - [**Decorator in Python - How To Simplifying Your Code And Boost Your Function**](https://medium.com/jungletronics/decorator-in-python-62c00f7e818) — Boost your Code: use decorator!💎
 
-[#08](PPY_09/) #PurePythonSeries - [**How To Use Modules In Pythons**]() — Packaging your Project in Python!🎁
+[#09](PPY_09/) #PurePythonSeries - [**How To Use Modules In Pythons**]() — Packaging your Project in Python!🎁
 
-[#08](PPY_10/) #PurePythonSeries - [**Marios Bros Harvard CS50 Challenge in Python!**](https://medium.com/jungletronics/cs50-a-taste-of-python-a4ac87883ff4) — CS50 In Python - from Harvard University!🔺
+[#10](PPY_10/) #PurePythonSeries - [**Marios Bros Harvard CS50 Challenge in Python!**](https://medium.com/jungletronics/cs50-a-taste-of-python-a4ac87883ff4) — CS50 In Python - from Harvard University!🔺
 
 ### License
 
