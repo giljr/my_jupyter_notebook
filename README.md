@@ -74,6 +74,8 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#13](PPY_13/) #PurePythonSeries - [**Advanced Python Technologies II**](https://medium.com/jungletronics/advanced-python-technologies-ii-33d2d6888583) — Face Recognition, Jupyter Notebook & **Ubuntu** 👌
 
+[#14](PPY_14/) #PurePythonSeries - [**Advanced Python Technologies III**](https://medium.com/jungletronics/advanced-python-technologies-iii-ac92cd677e5e) — Face Recognition w/ **Google Colab** 👌
+
 
 ### License
 
