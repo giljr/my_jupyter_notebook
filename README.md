@@ -56,7 +56,7 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#04](PPY_04/) #PurePythonSeries - [**Pandas DataFrame Advanced - A Complete Notebook Review**](https://medium.com/jungletronics/pandas-dataframe-advanced-48f83a5b097f) — All About Pandas!💕
 
-[#05](PPY_05/) #PurePythonSeries - [**Is This Leap Year? Python Calendar**](https://medium.com/jungletronics/is-this-leap-year-python-calendar-3d1a61f2c4a7) — How To Cal calendar? Leap year? 👀
+[#05](PPY_05/) #PurePythonSeries - [**Is This Leap Year? Python Calendar**](https://medium.com/jungletronics/is-this-leap-year-python-calendar-3d1a61f2c4a7) — How To call a calendar? Leap year? 👀
 
 [#06](PPY_06/) #PurePythonSeries - [**List Comprehension In Python**](https://medium.com/jungletronics/list-comprehension-in-python-c22c4b0a6a8a) — How to Use List Comprehension and More✔
 
