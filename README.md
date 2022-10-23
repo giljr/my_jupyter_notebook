@@ -50,7 +50,7 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#01](PPY_01/) #PurePythonSeries - [**Send Emails Using Python + Jupyter**](https://medium.com/jungletronics/send-emails-using-python-jupyter-notebook-94d14a5a5655) — How To Send Email eas·i·ly!🤔 
 
-[#02](PPY_02/) #PurePythonSeries - [**Automate Your Email Marketing With Python**](https://medium.com/jungletronics/automate-your-email-marketing-with-python-f0d68234b789) — Does Python integrate with Outlook?🐱‍🏍
+[#02](PPY_02/) #PurePythonSeries - [**Automate Your Email Marketing W/ Python**](https://medium.com/jungletronics/automate-your-email-marketing-with-python-f0d68234b789) — Does Python integrate with Outlook?🤔
 
 [#03](PPY_03/) #PurePythonSeries - [**Manipulating Files With Python**](https://medium.com/jungletronics/manipulating-files-with-python-3f9a781287e9) — How To Creating, Removing a Directory / File👌
 
@@ -67,7 +67,8 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 [#09](PPY_09/) #PurePythonSeries - [**How To Use Modules In Pythons**]() — Packaging your Project in Python!🎁
 
 [#10](PPY_10/) #PurePythonSeries - [**Marios Bros Harvard CS50 Challenge in Python!**](https://medium.com/jungletronics/cs50-a-taste-of-python-a4ac87883ff4) — from Harvard University!💎
-[#11](PPY_11/) #PurePythonSeries - [**Python - Send Email Using SMTP!**](https://medium.com/jungletronics/python-send-email-using-smtp-6ecf0b1dd608) — Send Mail To Any Internet Machine (SMTP or ESMTP) 📧
+
+[#11](PPY_11/) #PurePythonSeries - [**Python - Send Email Using SMTP!**](https://medium.com/jungletronics/python-send-email-using-smtp-6ecf0b1dd608) — Send Mail To Any Machine (SMTP or ESMTP) 📧
 
 [#12](PPY_12/) #PurePythonSeries - [**Advanced Python Technologies I**](https://medium.com/jungletronics/advanced-python-technologies-d3dbdf1d70cb) — qrcode, Speech Recognition and Google Speech 🎁
 
