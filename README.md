@@ -67,8 +67,12 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 [#09](PPY_09/) #PurePythonSeries - [**How To Use Modules In Pythons**]() — Packaging your Project in Python!🎁
 
 [#10](PPY_10/) #PurePythonSeries - [**Marios Bros Harvard CS50 Challenge in Python!**](https://medium.com/jungletronics/cs50-a-taste-of-python-a4ac87883ff4) — CS50 In Python - from Harvard University!🔺
-
 [#11](PPY_11/) #PurePythonSeries - [**Python - Send Email Using SMTP!**](https://medium.com/jungletronics/python-send-email-using-smtp-6ecf0b1dd608) — Send Mail To Any Internet Machine (SMTP or ESMTP) 📧
+
+[#12](PPY_12/) #PurePythonSeries - [**Advanced Python Technologies I**](https://medium.com/jungletronics/python-send-email-using-smtp-6ecf0b1dd608) — qrcode, Speech Recognition and Google Speech 🎁
+
+[#13](PPY_13/) #PurePythonSeries - [**Advanced Python Technologies II**](https://medium.com/jungletronics/advanced-python-technologies-d3dbdf1d70cb) — Face Recognition, Jupyter Notebook & **Ubuntu** 👌
+
 
 ### License
 

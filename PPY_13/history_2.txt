@@ -1,0 +1,118 @@
+    1  cd /tmp
+    2  [200~curl https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh --output anaconda.sh~
+    3  curl https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh --output anaconda.sh
+    4  sudo apt-get update && sudo apt-get install build-essential
+    5  rm /home/xx/anaconda3/bin/../lib/libstdc++.so.6
+    6  cp /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29 /home/xx/anaconda3/bin/../lib
+    7  ln -s /home/xx/anaconda3/bin/../lib/libstdc++.so.6.0.29 /home/xx/anaconda3/bin/../lib/libstdc++.so.6
+    8  rm /home/xx/anaconda3/bin/../lib/libstdc++.so.6
+    9  cp /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29 /home/xx/anaconda3/bin/../lib
+   10  ln -s /home/xx/anaconda3/bin/../lib/libstdc++.so.6.0.29 /home/xx/anaconda3/bin/../lib/libstdc++.so.6
+   11  rm /home/xx/anaconda3/bin/../lib/libstdc++.so.6
+   12  cp /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29 /home/xx/anaconda3/bin/../lib
+   13  ln -s /home/xx/anaconda3/bin/../lib/libstdc++.so.6.0.29 /home/xx/anaconda3/bin/../lib/libstdc++.so.6
+   14  clear
+   15  [200~sudo apt-get update
+   16  sudo apt-get upgrade
+   17  ln -sf /usr/lib/x86_64-linux-gnu/libstdc++.so.6 /home/anavani/anaconda3/envs/dmcgb/bin/../lib/libstdc++.so.6
+   18  conda install libgcc=5.2.0
+   19  sudo apt-get curl
+   20  cd /tmp
+   21  curl https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh --output anaconda.sh
+   22  sudo apt install curl
+   23  curl https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh --output anaconda.sh
+   24  sha256sum anaconda.sh
+   25  bash anaconda.sh
+   26  source ~/.bashrc
+   27  conda list
+   28  python --version
+   29  conda search "^python$"
+   30  jupyter-lab
+   31  sudo add-apt-repository ppa:ubuntu-toolchain-r/test # Ignore if not ubuntu
+   32  sudo apt-get update
+   33  sudo apt-get install gcc-4.9
+   34  sudo apt-get upgrade libstdc++6
+   35  sudo apt-get dist-upgrade
+   36  strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep GLIBCXX
+   37  sudo apt install python3-distutils
+   38  cmake --version
+   39  clear
+   40  [200~udo apt-get install gfortran libopenblas-dev liblapack-dev gcc-8 g++-8 && git clone https://github.com/davisking/dlib.git && cd dlib && mkdir build && cd build && cmake -DCMAKE_C_COMPILER=/usr/bin/gcc-8 -DCMAKE_CXX_COMPILER=/usr/bin/g++-8 -DUSE_AVX_INSTRUCTIONS=ON -DBUILD_SHARED_LIBS=1 -DCUDA_HOST_COMPILER=/usr/bin/gcc-8 ../ && cmake --build . --config Release~
+   41  sudo apt-get install gfortran libopenblas-dev liblapack-dev gcc-8 g++-8 && git clone https://github.com/davisking/dlib.git && cd dlib && mkdir build && cd build && cmake -DCMAKE_C_COMPILER=/usr/bin/gcc-8 -DCMAKE_CXX_COMPILER=/usr/bin/g++-8 -DUSE_AVX_INSTRUCTIONS=ON -DBUILD_SHARED_LIBS=1 -DCUDA_HOST_COMPILER=/usr/bin/gcc-8 ../ && cmake --build . --config Release
+   42  sudo apt-get install gfortran libopenblas-dev liblapack-dev gcc-8 g++ && git clone https://github.com/davisking/dlib.git && cd dlib && mkdir build && cd build && cmake -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DUSE_AVX_INSTRUCTIONS=ON -DBUILD_SHARED_LIBS=1 -DCUDA_HOST_COMPILER=/usr/bin/gcc-8 ../ && cmake --build . --config Release
+   43  clear
+   44  python3.7 setup.py install
+   45  clear
+   46  sudo apt-get update && sudo apt-get install build-essential
+   47  sudo apt-get install gfortran libopenblas-dev liblapack-dev gcc-8 g++-8 && git clone https://github.com/davisking/dlib.git && cd dlib && mkdir build && cd build && cmake -DCMAKE_C_COMPILER=/usr/bin/gcc-8 -DCMAKE_CXX_COMPILER=/usr/bin/g++-8 -DUSE_AVX_INSTRUCTIONS=ON -DBUILD_SHARED_LIBS=1 -DCUDA_HOST_COMPILER=/usr/bin/gcc-8 ../ && cmake --build . --config Release
+   48  clear
+   49  sudo apt update
+   50  sudo apt remove gcc-11 # optional
+   51  sudo apt update
+   52  sudo apt install gcc-8 g++-8
+   53  [200~sudo apt update
+   54  sudo apt install gcc-11 g++-11~
+   55  [200~sudo apt update
+   56  sudo apt install gcc-10 g++-10
+   57  sudo apt-get install gfortran libopenblas-dev liblapack-dev gcc-10 g++-10 && git clone https://github.com/davisking/dlib.git && cd dlib && mkdir build && cd build && cmake -DCMAKE_C_COMPILER=/usr/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/bin/g++-10 -DUSE_AVX_INSTRUCTIONS=ON -DBUILD_SHARED_LIBS=1 -DCUDA_HOST_COMPILER=/usr/bin/gcc-10 ../ && cmake --build . --config Release
+   58  sudo apt install git
+   59  clear
+   60  git clone https://github.com/davisking/dlib.git
+   61  de dlib
+   62  cd dlib
+   63  ls
+   64  clear
+   65  git clone https://github.com/davisking/dlib.git
+   66  ls
+   67  cd dlib/
+   68  sudo python3.7 setup.py install
+   69  sudo python3 setup.py install
+   70  sudo python setup.py install
+   71  python --version
+   72  sudo python3.7.6 setup.py install
+   73  sudo python3.7 setup.py install
+   74  python3.7 setup.py install
+   75  sudo dpkg -i cuda-repo-ubuntu1404_6.5-14_amd64.deb 
+   76  sudo apt-get update
+   77  sudo apt-get install cuda
+   78  sudo dpkg -i cuda-repo-ubuntu2204_1.lts_amd64.deb 
+   79  sudo apt-get install gfortran libopenblas-dev liblapack-dev gcc-10 g++-10 && git clone https://github.com/davisking/dlib.git && cd dlib && mkdir build && cd build && cmake -DCMAKE_C_COMPILER=/usr/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/bin/g++-10 -DUSE_AVX_INSTRUCTIONS=ON -DBUILD_SHARED_LIBS=1 -DCUDA_HOST_COMPILER=/usr/bin/gcc-10 ../ && cmake --build . --config Release
+   80  jupyter-lab
+   81  pip install face-recognition
+   82  wget -O - -q 'https://gist.githubusercontent.com/dte/8954e405590a360614dcc6acdb7baa74/raw/d1b5a01ed0b9252654016d2a9a435dc8b4c045e7/install-CUDA-docker-nvidia-docker.sh' | sudo bash
+   83  /bin/python3
+   84  clear
+   85  jupyter-lab
+   86  dpkg--configure-a
+   87  dpkg --configure-a
+   88  dpkg --configure -a
+   89  sudo dpkg --configure -a
+   90  reboot -n
+   91  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+   92  sudo apt-get update
+   93  sudo apt-get install gcc-4.9
+   94  sudo apt-get upgrade libstdc++6
+   95  clear
+   96  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+   97  sudo apt-get update
+   98  sudo apt-get install gcc-4.9
+   99  sudo apt-get upgrade libstdc++6
+  100  clear
+  101  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+  102  sudo apt-get update
+  103  sudo apt-get install gcc-4.9
+  104  sudo apt-get upgrade libstdc++6
+  105  clear
+  106  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+  107  clear
+  108  [200~apt-get update && apt-get install sudo && sudo apt-get install build-essential software-properties-common -y && sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y && sudo add-apt-repository ppa:george-edison55/cmake-3.x -y && sudo apt-get update && sudo apt-get install gcc-snapshot -y && sudo apt-get update && sudo apt-get install gcc-6 g++-6 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-6 && sudo apt-get install gcc-4.8 g++-4.8 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 40 --slave /usr/bin/g++ g++ /usr/bin/g++-4.8 && sudo update-alternatives --config gcc && sudo apt-get update && sudo apt-get install cmake -y;~
+  109  clear
+  110  apt-get update && apt-get install sudo && sudo apt-get install build-essential software-properties-common -y && sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y && sudo add-apt-repository ppa:george-edison55/cmake-3.x -y && sudo apt-get update && sudo apt-get install gcc-snapshot -y && sudo apt-get update && sudo apt-get install gcc-6 g++-6 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-6 && sudo apt-get install gcc-4.8 g++-4.8 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 40 --slave /usr/bin/g++ g++ /usr/bin/g++-4.8 && sudo update-alternatives --config gcc && sudo apt-get update && sudo apt-get install cmake -y;
+  111  clear
+  112  sudo apt-get update && apt-get install sudo && sudo apt-get install build-essential software-properties-common -y && sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y && sudo add-apt-repository ppa:george-edison55/cmake-3.x -y && sudo apt-get update && sudo apt-get install gcc-snapshot -y && sudo apt-get update && sudo apt-get install gcc-6 g++-6 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-6 && sudo apt-get install gcc-4.8 g++-4.8 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 40 --slave /usr/bin/g++ g++ /usr/bin/g++-4.8 && sudo update-alternatives --config gcc && sudo apt-get update && sudo apt-get install cmake -y;
+  113  clear
+  114  gcc -v
+  115  conda list
+  116  conda install -c conda-forge gxx_linux-64==11.1.0
+  117  conda list
+  118  history > history.txt

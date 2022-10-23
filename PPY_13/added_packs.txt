@@ -1,0 +1,23 @@
+Added packages:
+
+8 -   anaconda_depends         2020.02                  py37_0  8 
+32 -  binutils_impl_linux-64    2.36.1               h193b22a_2    conda-forge
+33 -  binutils_linux-64         2.36                 hf3e587d_1    conda-forge
+84 -  flit-core                 3.7.1              pyhd8ed1ab_0    conda-forge
+90 -  gcc_impl_linux-64         11.1.0               h6b5115b_8    conda-forge
+91 -  gcc_linux-64              11.1.0               h97fdae6_1    conda-forge
+102 - gxx_impl_linux-64         11.1.0               h6b5115b_8    conda-forge
+103 - gxx_linux-64              11.1.0               h33c4e4b_1    conda-forge
+116 - importlib_metadata        4.11.4               hd8ed1ab_0    conda-forge
+137 - jupyter_client            7.1.2              pyhd8ed1ab_0    conda-forge
+140 - jupyter_server            1.13.2             pyhd8ed1ab_0    conda-forge
+144 - jupyterlab_pygments       0.2.2              pyhd8ed1ab_0    conda-forge
+145 - jupyterlab_server         2.10.3             pyhd8ed1ab_0    conda-forge
+146 - kernel-headers_linux-64   2.6.32              he073ed8_15    conda-forge
+157 - libgcc-ng                 11.2.0               h1234567_1  
+159 - libgomp                   11.2.0               h1234567_1  
+162 - libsanitizer              11.1.0               h56837e0_8    conda-forge
+167 - libstdcxx-ng              12.2.0              h46fd767_18    conda-forge
+271 - python-fastjsonschema     2.16.2             pyhd8ed1ab_0    conda-forge
+275 - python_abi                3.7                     2_cp37m    conda-forge
+324 - sysroot_linux-64          2.12                he073ed8_15    conda-forge
