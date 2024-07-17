@@ -76,6 +76,12 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#14](PPY_14/) #PurePythonSeries - [**Advanced Python Technologies III**](https://medium.com/jungletronics/advanced-python-technologies-iii-ac92cd677e5e) — Face Recognition w/ **Google Colab** 👌
 
+[#15](PPY_15/) #PurePythonSeries - [**ISS Tracking Project — Python**](https://medium.com/jungletronics/iss-tracking-project-python-af4b5fa47a28) — Get email alerts when **ISS** is overhead. 👌
+
+[#16](PPY_16/) #PurePythonSeries - [**Using Gemini Chat on Collab**]([https://medium.com/jungletronics/advanced-python-technologies-iii-ac92cd677e5e](https://medium.com/jungletronics/using-gemini-chat-on-collab-2626fb035176)) — Random Numbers, List Manipulation & Rock-Paper-Scissors. 👌
+
+
+
 
 ### License
 
